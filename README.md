@@ -2,9 +2,9 @@ Working fork of the original.
 
 Install by placing folder into:
 
-Windows %USERPROFILE%\.vscode\extensions
-macOS ~/.vscode/extensions
-Linux ~/.vscode/extensions
+- Windows %USERPROFILE%\.vscode\extensions
+- macOS ~/.vscode/extensions
+- Linux ~/.vscode/extensions
 
 # FlatUI Theme for VSCode
 
