@@ -1,8 +1,8 @@
 # FlatUI Theme for VSCode
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
-[![License](https://img.shields.io/badge/License-CC_BY--SA_4.0-brightgreen.svg?style=flat-square&longCache=true)](https://creativecommons.org/licenses/by-sa/4.0)
+<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI"><img src="https://vsmarketplacebadge.apphb.com/installs/lkytal.FlatUI.svg?style=flat-square" alt="Installs"></a>
+<a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noreferrer noopener"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.png?style=flat-square"></a>
 
 A flat syntax theme for VS Code.
 
@@ -10,25 +10,25 @@ A flat syntax theme for VS Code.
 
 ## Light style
 
-![Preview Light](https://github.com/lkytal/vscode-theme-flatui/raw/master/images/preview.png)
+![Preview Light](images/preview.png)
 
 ## Dark style
 
-![Preview Dark](https://github.com/lkytal/vscode-theme-flatui/raw/master/images/preview_dark.png)
+![Preview Dark](images/preview_dark.png)
 
 ## Overview
 
 ### Light Theme
 
-![Overview Light](https://github.com/lkytal/vscode-theme-flatui/raw/master/images/overview.png)
+![Overview Light](images/overview.png)
 
 ### Immersed Theme
 
-![Preview Immersed](https://github.com/lkytal/vscode-theme-flatui/raw/master/images/overview_i.png)
+![Preview Immersed](images/overview_i.png)
 
 ### Dark Theme
 
-![Overview Dark](https://github.com/lkytal/vscode-theme-flatui/raw/master/images/overview_dark.png)
+![Overview Dark](images/overview_dark.png)
 
 ## My Other extensions
 
@@ -38,24 +38,6 @@ A flat syntax theme for VS Code.
 - ### [Translator Plus](https://marketplace.visualstudio.com/items?itemName=lkytal.translatorplus)
 
 ## Release Note
-
-### 1.4.9
-
-- Adjustments to immersed theme.
-
-### 1.4.8
-
-- Adjustments to fit new custom titlebar.
-- Better support towards Javascript and Python with Dark theme.
-
-### 1.4.7
-
-- Adjustments towards Markdown.
-
-### 1.4.6
-
-- Better support towards Golang and Markdown.
-- Other adjustments.
 
 ### 1.4.5
 
@@ -128,7 +110,6 @@ This theme won't born without the help of following creations, big thanks to the
 > <div>Icons made by <a href="https://www.flaticon.com/authors/vectors-market" title="Vectors Market">Vectors Market</a> from <a href="https://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="https://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
 
 ## Support on Beerpay
-
 Hey dude! Help me out for a couple of :beers:!
 
-[![Beerpay](https://img.shields.io/badge/Donate-_%241_-brightgreen.svg?style=flat-square&longCache=true)](https://beerpay.io/lkytal/vscode-theme-flatui)
+[![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/badge.svg?style=beer-square)](https://beerpay.io/lkytal/vscode-theme-flatui)  [![Beerpay](https://beerpay.io/lkytal/vscode-theme-flatui/make-wish.svg?style=flat-square)](https://beerpay.io/lkytal/vscode-theme-flatui?focus=wish)
