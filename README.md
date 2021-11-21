@@ -1,3 +1,11 @@
+Working fork of the original.
+
+Install by placing folder into:
+
+Windows %USERPROFILE%\.vscode\extensions
+macOS ~/.vscode/extensions
+Linux ~/.vscode/extensions
+
 # FlatUI Theme for VSCode
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/lkytal.FlatUI.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=lkytal.FlatUI)
