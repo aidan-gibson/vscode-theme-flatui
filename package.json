@@ -1,7 +1,8 @@
 {
   "name": "flatui-immersed",
   "displayName": "flatui-immersed",
-  "description": "",
+  "description": "Working version of lkytal's FlatUI Immersed.",
+  "license": "CC-BY-NC-SA-4.0",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -17,5 +18,9 @@
         "path": "./themes/flatui-immersed-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidan-gibson/vscode-theme-flatui"
   }
 }
