@@ -31,3 +31,8 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 # Notes to Self
 
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+`vsce package` creates the vsix
+
+`vsce publish` insert PAT (make sure version is incremented in package.json first)
